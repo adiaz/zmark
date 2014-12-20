@@ -1,0 +1,6 @@
+libbitmarkqt_a-winshutdownmonitor.o: winshutdownmonitor.cpp \
+ /usr/include/stdc-predef.h winshutdownmonitor.h
+
+/usr/include/stdc-predef.h:
+
+winshutdownmonitor.h:

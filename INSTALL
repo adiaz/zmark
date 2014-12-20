@@ -1,0 +1,5 @@
+Building Zmark
+
+See doc/build-*.md for instructions on building zmarkd,
+the intended-for-services, no-graphical-interface, reference
+implementation of Zmark.
