@@ -1,4 +1,9 @@
 # Zmark
+=======
+
+Just cloning? Clone zpfennig, its ment to be cloned.
+
+
 
 Zmark is the Cloneable Reference Implementation of [Bitmark](https://github.com/project-bitmark/bitmark/), a new tested implementation using Scrypt PoW.
 
